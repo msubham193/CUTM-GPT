@@ -3,7 +3,6 @@ import React, { useState, useRef, useEffect } from "react";
 import { Send, Bot, User, Brain, Sparkles } from "lucide-react";
 import Image from "next/image";
 import SparklesText from "./ui/sparkles-text";
-import ShimmerButton from "./ui/shimmer-button";
 import { BorderBeam } from "./ui/border-beam";
 import ShineBorder from "./ui/shine-border";
 import AnimatedGradientText from "./ui/animated-gradient-text";
